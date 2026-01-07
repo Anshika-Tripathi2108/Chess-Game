@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="image.png" alt="Chess Board">
+  <img src="chess.png" alt="Chess Board">
 </div>
 
 ## Play Chess Here [Simple Chess](https://github.com/Anshika-Tripathi2108/Chess-Game.git/)
